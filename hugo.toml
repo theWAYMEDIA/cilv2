@@ -1,0 +1,103 @@
+baseURL = "https://cilv2.com/"
+languageCode = "es-MX"
+defaultContentLanguage = "es"
+title = "Condominio Ignacio L. Vallarta II"
+disableHugoGeneratorInject = true
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[params]
+  # Paso unico de lanzamiento: cambiar a true cuando el abogado haya revisado el sitio.
+  # Mientras sea false: noindex en todas las paginas, robots.txt con Disallow y sitemap vacio.
+  launched = false
+
+[markup.goldmark.parser]
+  autoHeadingIDs = true
+  [markup.goldmark.parser.attribute]
+    title = true
+    block = true
+
+[[menu.main]]
+  identifier = "inicio"
+  name = "Inicio"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "antecedentes"
+  name = "Cómo llegamos aquí"
+  url = "/antecedentes/"
+  weight = 10
+  [menu.main.params]
+    flow = true
+
+[[menu.main]]
+  identifier = "pros-y-contras"
+  name = "Pros y contras"
+  url = "/pros-y-contras/"
+  weight = 20
+  [menu.main.params]
+    flow = true
+
+[[menu.main]]
+  identifier = "cuotas-y-costos"
+  name = "Cuotas y costos"
+  url = "/cuotas-y-costos/"
+  weight = 30
+  [menu.main.params]
+    flow = true
+
+[[menu.main]]
+  identifier = "somos-distintos"
+  name = "Nuestra situación"
+  url = "/somos-distintos/"
+  weight = 40
+  [menu.main.params]
+    flow = true
+
+[[menu.main]]
+  identifier = "que-puede-hacer"
+  name = "Qué puede hacer"
+  url = "/que-puede-hacer/"
+  weight = 50
+  [menu.main.params]
+    flow = true
+
+[[menu.main]]
+  identifier = "nuestra-opinion"
+  name = "Nuestra opinión"
+  url = "/nuestra-opinion/"
+  weight = 60
+  [menu.main.params]
+    flow = true
+
+[[menu.main]]
+  identifier = "escritura"
+  name = "La escritura"
+  url = "/escritura-24693/"
+  weight = 65
+
+[[menu.main]]
+  identifier = "contacto"
+  name = "Contacto"
+  url = "/contacto/"
+  weight = 70
+
+# Escaneo oficial de la escritura (tres partes para descargar con poca conexion).
+[[params.pdfs]]
+  name = "Parte A"
+  file = "/pdf/escritura-24693-A.pdf"
+  pages = 15
+  size = "16 MB"
+
+[[params.pdfs]]
+  name = "Parte B"
+  file = "/pdf/escritura-24693-B.pdf"
+  pages = 23
+  size = "26 MB"
+
+[[params.pdfs]]
+  name = "Parte C"
+  file = "/pdf/escritura-24693-C.pdf"
+  pages = 17
+  size = "19 MB"

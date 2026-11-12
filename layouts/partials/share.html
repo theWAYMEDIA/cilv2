@@ -1,0 +1,2 @@
+{{- $text := printf "%s %s" .Title .Permalink -}}
+<p class="share"><a href="https://wa.me/?text={{ $text | urlquery }}">Compartir por WhatsApp</a></p>

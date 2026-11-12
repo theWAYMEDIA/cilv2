@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{- $opinion := eq .File.ContentBaseName "nuestra-opinion" }}
+<article{{ if $opinion }} class="opinion"{{ end }}>
+  {{- if $opinion }}
+  <p class="label">Opinión</p>
+  {{- end }}
+  {{- if eq .Section "escritura-24693" }}
+  <p class="up"><a href="/escritura-24693/">← La escritura de 2002</a></p>
+  {{- end }}
+  <h1>{{ .Title }}</h1>
+  {{ partial "body.html" . }}
+</article>
+{{ partial "prevnext.html" . }}
+{{ partial "share.html" . }}
+{{ end }}

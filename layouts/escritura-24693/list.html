@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  {{ partial "body.html" . }}
+  <section class="scan" aria-labelledby="escaneo">
+    <h2 id="escaneo">Escaneo oficial de la escritura</h2>
+    <p>Estas son las imágenes del documento original, en tres partes para que se descarguen más fácil con poca conexión. Son archivos grandes: descárguelos con Wi-Fi si puede.</p>
+    <ul>
+    {{- range site.Params.pdfs }}
+      <li><a href="{{ .file }}" download>{{ .name }}</a> <span class="meta">(PDF, {{ .pages }} páginas, {{ .size }})</span></li>
+    {{- end }}
+    </ul>
+  </section>
+</article>
+{{ partial "share.html" . }}
+{{ end }}
