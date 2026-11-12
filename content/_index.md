@@ -1,22 +1,23 @@
 ---
 title: "Condominio Ignacio L. Vallarta II"
-description: "Información para los vecinos sobre el régimen de condominio de nuestras 41 casas, dormido desde 2002."
+description: "El régimen de condominio de nuestras 41 casas se inscribió en 2002 y nunca se ha puesto en práctica. Hoy hay quienes quieren activarlo. Aquí está lo que hace falta y lo que heredaríamos todos."
 draft: false
 ---
 
 *Condominio Ignacio L. Vallarta II · Paseo de las Palmas 49, Puerto Vallarta*
 
-**Nuestras 41 casas tienen un régimen de condominio en papel. Nunca se ha usado. Algunos vecinos lo quieren poner en marcha. Si lo logran, le afecta a cada familia, vaya o no vaya usted a la asamblea.**
+**El régimen de condominio de nuestras 41 casas es letra muerta. Se inscribió en 2002 y nunca se ha puesto en práctica.**
+
+**Usted no estaba mal informado.** En 24 años no hubo asambleas, ni administrador, ni consejo, ni cuotas. Quien le dijo que aquí nadie manda y nadie cobra decía la verdad. Así ha sido siempre.
+
+**Lo que cambió.** Hoy hay personas que se presentan como directivos o representantes de este régimen. No lo son: que sepamos, nunca se ha celebrado una asamblea ni se ha nombrado a nadie. Lo que sí pueden intentar es ponerlo en marcha. Si lo logran, le afecta a cada familia, vaya o no vaya usted a la asamblea.
 
 Este no es un sitio oficial. El condominio no tiene ninguno. Somos vecinos que leímos la escritura y queremos que todos sepan qué dice.
 
-**Lo esencial**
+**Este sitio le explica dos cosas**
 
-- En 2002 el desarrollador inscribió un régimen de condominio para nuestras 41 casas. La ley se lo exigía.
-- Durante 24 años no pasó nada. Ni asambleas, ni administrador, ni cuotas.
-- Todavía se puede poner en marcha. Según la escritura, **11 casas** pueden convocar la primera asamblea.
-- Lo que decida esa asamblea vale para las 41 casas, aunque no hayan ido.
-- Un régimen en marcha trae cuotas, reglas escritas, un administrador, un consejo y una forma de cobrar a quien se atrasa.
+- **Qué hace falta para que el régimen deje de ser letra muerta.** Todavía se puede. Según la escritura, **11 casas** pueden convocar la primera asamblea.
+- **Qué responsabilidades heredaríamos todos si eso pasa.** Lo que decida esa asamblea vale para las 41 casas, aunque no hayan ido. Un régimen en marcha trae cuotas, reglas escritas, un administrador, un consejo y una forma de cobrar a quien se atrasa.
 
 No le decimos cómo votar. Le damos los datos y los dos lados.
 
