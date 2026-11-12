@@ -48,7 +48,7 @@ Dominio: `cilv2.com` (`static/CNAME`). En el proveedor del dominio, para el domi
 | AAAA | @ | 2606:50c0:8001::153 |
 | AAAA | @ | 2606:50c0:8002::153 |
 | AAAA | @ | 2606:50c0:8003::153 |
-| CNAME | www | `<usuario-de-github>.github.io` |
+| CNAME | www | `thewaymedia.github.io` |
 
 Después, en GitHub: Settings → Pages → Source: *GitHub Actions*, dominio personalizado `cilv2.com`,
 y activar *Enforce HTTPS* cuando el certificado esté listo. No usar comodines (`*`) en el DNS.
