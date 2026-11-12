@@ -1,49 +1,45 @@
 ---
 title: "Cuotas y costos"
-description: "Lo que la escritura de 2002 dice sobre cuotas, fondo de reserva, intereses y cobro, y un ejemplo con números."
+description: "Cuánto podría costar un régimen activo, qué dice la escritura sobre cuotas, fondo de reserva y morosos."
+weight: 30
+draft: false
 ---
 
-Esta colonia es de clase media trabajadora, y mucha gente cuenta cada peso. Cuando el municipio pidió **cien pesos por casa** para mejorar la luz de la cancha de basquetbol, muchas familias dijeron que no. Eso conviene tenerlo presente al leer lo que sigue.
+Esta no es una colonia de ricos, y muchas familias cuentan cada peso. Cuando el municipio pidió **100 pesos por casa** para mejorar la iluminación de la cancha de arriba, algunas familias dijeron que era demasiado. Tenga eso presente.
 
-## Lo que dice la escritura {#escritura}
+## Lo que dice la escritura
 
-- **Todos pagan lo mismo.** Las 41 casas tienen el mismo porcentaje (2.439%), así que cada una paga la misma parte ([art. 47](/escritura-24693/04-reglamento/#articulo-47)).
-- **La cuota se paga por trimestre adelantado**, en los primeros 10 días de enero, abril, julio y octubre, sin que nadie venga a cobrarla ([arts. 49 y 51](/escritura-24693/04-reglamento/#articulo-49)).
-- **Fondo de reserva.** Equivale a tres meses de gastos. Cada propietario aporta tres meses de su cuota ([arts. 45 y 46](/escritura-24693/04-reglamento/#articulo-45)). Cómo se aplicaría eso al arrancar hoy un régimen dormido es una pregunta para el abogado.
-- **Si el dinero no alcanza**, la asamblea puede acordar una **cuota extraordinaria** o subir la ordinaria ([art. 54](/escritura-24693/04-reglamento/#articulo-54)).
-- **El administrador contrata y paga al personal** con permiso del consejo ([cap. V](/escritura-24693/04-reglamento/#capitulo-v)).
-- **Cuentas.** Hay un estado de cuentas cada mes ([art. 55](/escritura-24693/04-reglamento/#articulo-55)).
+- Todos pagan lo mismo. Las 41 casas tienen la misma parte, 2.439% ([art. 47](/escritura-24693/04-reglamento/#articulo-47)).
+- Las cuotas se pagan cada tres meses, por adelantado, en los primeros 10 días de enero, abril, julio y octubre. Nadie pasa a cobrar ([arts. 49](/escritura-24693/04-reglamento/#articulo-49) y [51](/escritura-24693/04-reglamento/#articulo-51)).
+- Un fondo de reserva igual a tres meses de gastos. Cada dueño aporta tres meses de su cuota ([arts. 45](/escritura-24693/04-reglamento/#articulo-45) y [46](/escritura-24693/04-reglamento/#articulo-46)). Cómo se aplica esto cuando un régimen dormido arranca hoy es una pregunta para el abogado.
+- Si el dinero no alcanza, la asamblea puede votar una cuota extra o subir la cuota ordinaria ([art. 54](/escritura-24693/04-reglamento/#articulo-54)).
+- El administrador contrata y paga al personal, con permiso del consejo ([capítulo V](/escritura-24693/04-reglamento/#capitulo-v)).
 
-## Lo que la escritura no dice {#monto}
+**Lo que la escritura no dice:** ningún mínimo ni máximo. La asamblea decide y puede cambiarla cada año. Puede empezar baja y subir.
 
-**No fija ningún monto.** La cantidad la decide la asamblea, y la puede cambiar cada año. Puede ser baja al principio y subir después.
+## Un ejemplo con números
 
-## Un ejemplo con números {#ejemplo}
+Las cantidades son inventadas, solo para mostrar la cuenta. No son un pronóstico. Todo en pesos.
 
-*Son cifras inventadas para mostrar la aritmética. No son una predicción.*
+| Cuota al mes | Primer pago al arrancar | Al año, después |
+|---|---|---|
+| $300 | $1,800 | $3,600 |
+| $500 | $3,000 | $6,000 |
+| $1,000 | $6,000 | $12,000 |
 
-| Cuota mensual por casa | Al año, por casa | Al año, las 41 casas | Fondo de reserva (3 meses, por casa) |
-|---|---|---|---|
-| $300 | $3,600 | $147,600 | $900 |
-| $500 | $6,000 | $246,000 | $1,500 |
-| $1,000 | $12,000 | $492,000 | $3,000 |
+El primer pago es la cuota por 3 del primer trimestre, más la cuota por 3 del fondo de reserva. Con $500 al mes, las 41 casas juntas pagan $246,000 pesos al año por servicios que hoy no existen. Lo que la asamblea agregue va encima.
 
-Con $500 al mes, una familia paga $6,000 al año por servicios que hoy no existen, y 41 familias reúnen $246,000. A eso se le suma lo que la asamblea decida añadir.
+## Costos que vienen con esto
 
-## Costos que acompañan {#costos}
+Un condominio en marcha necesita cuenta de banco, contabilidad, declaraciones de impuestos y, tarde o temprano, un abogado. Alguien hace ese trabajo. Si no lo hacen voluntarios, a alguien se le paga.
 
-Un condominio en marcha necesita cuenta bancaria, contabilidad, impuestos y, tarde o temprano, abogado. Alguien tiene que hacer ese trabajo y, si no son voluntarios, alguien cobra por él.
+## Si una familia no puede pagar
 
-## Si una familia no paga {#mora}
+- Los intereses empiezan el día 11 del trimestre ([arts. 50](/escritura-24693/04-reglamento/#articulo-50) y [105](/escritura-24693/04-reglamento/#articulo-105)).
+- A los 90 días, el estado de cuenta firmado por el administrador permite cobrar por la vía más rápida ([art. 106](/escritura-24693/04-reglamento/#articulo-106)).
+- El inquilino responde junto con el dueño ([art. 106](/escritura-24693/04-reglamento/#articulo-106)).
+- Una casa no se puede vender con adeudos. El comprador los hereda, y comprador y vendedor responden juntos ([art. 23, XIV](/escritura-24693/04-reglamento/#articulo-23)).
 
-- **Intereses por mora** desde el día 11 del trimestre ([arts. 50 y 105](/escritura-24693/04-reglamento/#articulo-50)).
-- **A los 90 días**, el estado de cuenta firmado por el administrador con aprobación del consejo vale como *título ejecutivo* ([art. 106](/escritura-24693/04-reglamento/#articulo-106)). Eso permite cobrar por la vía judicial más rápida.
-- **El inquilino responde junto con el dueño** de lo que se deba ([art. 106](/escritura-24693/04-reglamento/#articulo-106)).
-- **Vender con deuda.** No se puede, y quien compra queda obligado a pagar lo atrasado. Comprador y vendedor responden juntos ([art. 23, XIV](/escritura-24693/04-reglamento/#articulo-23)).
-- **Faltas graves.** La asamblea puede aplicar las medidas del Código Civil de Jalisco, artículos 1031 a 1033 ([art. 104](/escritura-24693/04-reglamento/#articulo-104)). Un abogado debe explicarle cuáles son.
+## Antes de votar, pregúntese
 
-## Antes de votar, pregúntese {#preguntas}
-
-¿Cuántas de las 41 familias pueden pagar una cuota fija, cada trimestre, sin atrasarse? ¿Y qué pasa con las que no pueden?
-
-*Estas notas resumen la escritura. No son asesoría legal. Consulte a su abogado.*
+¿Cuántas de las 41 familias pueden pagar una cuota cada tres meses, y completar el fondo de reserva, sin atrasarse? ¿Y qué pasa con las que no pueden?

@@ -18,7 +18,7 @@ BASE = "https://cilv2.com"
 
 # Paginas que existen en el contenido pero aun no estan publicadas (draft u omitidas).
 # Se reportan como aviso, no como error.
-KNOWN_UNPUBLISHED = {"/antecedentes/", "/somos-distintos/", "/nuestra-opinion/"}
+KNOWN_UNPUBLISHED = set()
 
 REQUIRED = {
     "/escritura-24693/04-reglamento/": [f"articulo-{n}" for n in

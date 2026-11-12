@@ -1,35 +1,41 @@
 ---
 title: "Pros y contras"
-description: "Lo que un régimen de condominio puede dar a la colonia, y lo que puede quitarle."
+description: "Lo bueno y lo difícil de activar el régimen de condominio, un tema a la vez, con los artículos de la escritura."
+weight: 20
+draft: false
 ---
 
-Un régimen no es bueno ni malo en sí. Depende de quién lo maneje, de cuánto cueste y de si usted puede pagarlo. Aquí van las dos caras. Lo que dice la escritura lleva enlace.
+Un régimen no es bueno ni malo en sí mismo. Depende de quién lo maneje, de cuánto cueste y de si las familias pueden pagar. Muchos puntos tienen dos caras, así que cada uno aparece una sola vez, con lo bueno y lo difícil juntos.
 
-## Lo que un régimen puede dar {#pros}
+## Lo común y la cuota que lo paga ([arts. 45 a 56](/escritura-24693/04-reglamento/#articulo-45))
 
-- **Servicios comunes.** Cobrar cuotas para jardines, limpieza y reparaciones, y pagar a quien haga el trabajo ([arts. 45 a 56](/escritura-24693/04-reglamento/#articulo-45)).
-- **Orden en el estacionamiento y en los números.** Marcar cada cajón y cada casa, para que cada hogar use solo el suyo.
-- **Reglas escritas.** Hoy valen las reglas no escritas. Con un régimen todos saben a qué atenerse.
-- **Un solo camino para los pleitos entre vecinos.** Las reglas y las sanciones de la escritura ([cap. VIII](/escritura-24693/04-reglamento/#capitulo-viii)) sustituyen la discusión de cada caso.
-- **Posible alza en el valor de las casas**, porque el conjunto se ve cuidado.
-- **Cobro de adeudos.** Quien no paga no puede vender su casa sin saldar lo que debe, con intereses ([art. 23, XIV](/escritura-24693/04-reglamento/#articulo-23)).
-- **Áreas comunes útiles**, como una zona de asador para todos.
-- **Reglas que se pueden cambiar** en asamblea. Por ejemplo, prohibir negocios dentro de las casas, si a usted le conviene.
-- **Banquetas libres**, como corresponde a un paso público.
+- **Bueno:** la cuota forma un fondo para reparar y mantener lo común. Una sola cuenta de banco y un estado de cuentas cada mes.
+- **Difícil:** no tenemos alberca, elevador, portón ni guardias. El municipio ya se encarga de las lámparas de las escaleras. Las familias podrían pagar por muy poco. Y la escritura no pone tope a la cuota.
 
-## Lo que puede costar {#contras}
+## Reglas escritas
 
-- **Las cuotas suben**, y no todas las familias pueden pagarlas, ni las mejoras que la asamblea decida. Vea [Cuotas y costos](/cuotas-y-costos/).
-- **Gastos de administración.** Hay contador, impuestos y abogados, y demandas contra el dueño que se atrasa.
-- **Asambleas que empiezan llenas y terminan vacías.** Al principio la gente va. Con el tiempo se cansa, deja de ir, y unos cuantos deciden por todos.
-- **Política.** El poder sobre los demás atrae a quien quiere poder sobre los demás.
-- **Construir en las azoteas.** El [artículo 36](/escritura-24693/04-reglamento/#articulo-36) prohíbe construir en ellas, salvo que la Asamblea lo juzgue necesario. Quien tenga la mayoría de la asamblea decide qué es «necesario».
-- **Lo que ya se hizo en las casas.** La mayoría ha ampliado su casa de acuerdo con sus vecinos, ha cambiado su fachada, y cerca de una quinta parte tiene un negocio. La escritura prohíbe [negocios](/escritura-24693/04-reglamento/#articulo-21), [ampliaciones](/escritura-24693/04-reglamento/#articulo-37) y [cambios a balcones, terrazas y su pintura](/escritura-24693/04-reglamento/#articulo-23). Hoy nadie lo exige. Un régimen en marcha sí podría exigirlo.
+- **Bueno:** todos juegan con las mismas reglas: andadores libres, estacionamiento, números de casa. Las reglas se pueden cambiar en asamblea.
+- **Difícil:** la escritura ya prohíbe los negocios ([art. 21](/escritura-24693/04-reglamento/#articulo-21)), cambiar balcones, terrazas y su pintura ([art. 23, XVII](/escritura-24693/04-reglamento/#articulo-23)) y construir sin permiso del consejo ([art. 38](/escritura-24693/04-reglamento/#articulo-38)). La mayoría de las casas se ha ampliado de acuerdo con los vecinos, muchas han cambiado su frente, y como una quinta parte tiene un negocio en casa. Hoy nadie hace cumplir esas prohibiciones. Un régimen en marcha sí podría.
+- **Difícil:** es fácil hacer cumplir y difícil cambiar. Cobrar cuotas, nombrar el consejo y sancionar solo necesitan la mayoría de los presentes en segunda convocatoria ([art. 64](/escritura-24693/04-reglamento/#articulo-64)). Cambiar las reglas para que coincidan con lo que ya existe necesita el **75%** de todos los votos ([art. 5](/escritura-24693/04-reglamento/#articulo-5)). Unos cuantos bastan para hacer cumplir. Casi toda la colonia hace falta para cambiar.
 
-## Lo que pesa más de lo que parece {#asimetria}
+## Arreglar pleitos entre vecinos ([capítulo VIII](/escritura-24693/04-reglamento/#capitulo-viii))
 
-Exigir cumplimiento es fácil. Cobrar cuotas, nombrar al consejo y sancionar solo requieren la mayoría de los presentes en una segunda convocatoria ([art. 64](/escritura-24693/04-reglamento/#articulo-64)). Cambiar el reglamento para legalizar lo que ya existe exige el **75%** de los derechos de todo el condominio ([art. 5](/escritura-24693/04-reglamento/#articulo-5)).
+- **Bueno:** un solo camino, con sanciones escritas, en vez de pleitos.
+- **Difícil:** el mismo camino se puede usar en su contra. Para las «faltas graves», la asamblea puede llegar hasta las medidas de los artículos 1031 a 1033 del Código Civil de Jalisco ([art. 104](/escritura-24693/04-reglamento/#articulo-104)). Un abogado tiene que explicar cuáles son.
 
-Dicho de otro modo: para hacer valer las reglas actuales basta con unos cuantos; para cambiarlas hace falta casi toda la colonia.
+## Cobrar lo que se debe
 
-*Consulte a su abogado sobre qué asuntos son ordinarios y cuáles extraordinarios.*
+- **Bueno:** los vecinos que no pagan dejan de ser cargados por los demás. A los 90 días, el estado de cuenta del administrador es un *título ejecutivo* ([art. 106](/escritura-24693/04-reglamento/#articulo-106)), que permite cobrar rápido en un juzgado. Una casa no se puede vender con adeudos ([art. 23, XIV](/escritura-24693/04-reglamento/#articulo-23)).
+- **Difícil:** usted podría ser el que se atrase. Los intereses empiezan el día 11 del trimestre, el comprador hereda la deuda y el inquilino responde junto con el dueño.
+
+## Que se tomen decisiones
+
+- **Bueno:** alguien puede decidir y actuar: una reparación, una regla, un pleito.
+- **Difícil:** las asambleas suelen empezar llenas y terminar con un puñado de gente, y ese puñado decide por todos ([art. 58](/escritura-24693/04-reglamento/#articulo-58)). El poder sobre los demás atrae a quien quiere poder sobre los demás.
+
+## Las azoteas
+
+- **Bueno:** la escritura prohíbe construir en las azoteas ([art. 36](/escritura-24693/04-reglamento/#articulo-36)).
+- **Difícil:** salvo que la asamblea lo juzgue «necesario». Quien tenga la mayoría decide qué es necesario.
+
+*Pregunte a su abogado qué asuntos son ordinarios y cuáles extraordinarios. Las reglas de votación son distintas.*
