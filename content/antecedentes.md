@@ -5,9 +5,11 @@ weight: 10
 draft: false
 ---
 
+**En resumen:** el régimen de condominio de nuestras 41 casas es letra muerta. Se inscribió en 2002 y nunca se ha puesto en práctica. Nadie tiene cargo en él. Hoy hay quienes dicen que sí lo tienen, y por eso importa esta historia.
+
 Todo empezó cuando una nueva propietaria dijo que la escritura le daba derecho a construir sobre las azoteas de sus vecinos. La escritura no dice nada de eso, y se lo hicimos ver.
 
-Siguió una cadena de hechos. Ella dijo que el Reglamento del Condominio nos obliga a entregarle nuestras azoteas, para hacer un patio al frente y cuartos encima de nuestras otras azoteas. Pero el condominio está inactivo, y eso era falso. Normalmente estos asuntos se arreglan con buena plática y sacando los permisos. Si tuviéramos un régimen activo, le habría dicho que las reglas de Jalisco son claras: nadie toca su azotea sin su permiso expreso.
+Siguió una cadena de hechos. Ella dijo que el Reglamento del Condominio nos obliga a entregarle nuestras azoteas, para hacer un patio al frente y cuartos encima de nuestras otras azoteas. Pero el condominio está inactivo, y lo que ella decía era falso. Normalmente estos asuntos se arreglan con buena plática y sacando los permisos. Si tuviéramos un régimen activo, le habría dicho que las reglas de Jalisco son claras: nadie toca su azotea sin su permiso expreso.
 
 En vez de eso, llegaron de noche a cortarnos el gas, el agua y la luz, y a llevarse nuestro tanque de gas. Su gente empezó a construir sin licencia, con un permiso de construcción muy raro que no resistió la revisión. Pasamos seis semanas sin gas. Gastamos unos $160,000 pesos en abogados. Con la ayuda de la Fiscalía, Desarrollo Urbano, un dictamen del Instituto Jalisciense de Ciencias Forenses y Derechos Humanos Jalisco, se detuvo la obra y se prohibió construir en el futuro. Vinieron especialistas de Guadalajara. El caso terminó en denuncias por despojo (quitarle a alguien su propiedad sin derecho) y allanamiento. Fueron cuatro años de pelea. Pero la intimidación no paró.
 

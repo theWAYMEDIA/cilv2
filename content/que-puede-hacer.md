@@ -5,7 +5,11 @@ weight: 50
 draft: false
 ---
 
+**El régimen está dormido, y hoy nadie tiene cargo en él.** Se inscribió en 2002 y nunca se ha puesto en práctica: no ha habido asambleas, ni elecciones, ni administrador, ni consejo. Esta página explica qué pasaría si alguien intentara ponerlo en marcha y qué puede hacer usted. Lo que costaría, y lo que heredaríamos todos, está en [Cuotas y costos](/cuotas-y-costos/). Somos vecinos, no abogados: si nos equivocamos en algo, avísenos y lo corregimos.
+
 **La primera asamblea decide todo.** Según la escritura, la puede convocar el administrador, el consejo o los dueños que reúnan el **25% de los votos** ([arts. 60](/escritura-24693/04-reglamento/#articulo-60) y [61](/escritura-24693/04-reglamento/#articulo-61)). Cada casa pesa lo mismo, así que **11 casas bastan** para convocarla. Por eso importa que usted vaya y que vote.
+
+Como hoy no hay administrador ni consejo, nuestra lectura es que la primera asamblea solo la pueden convocar los dueños que reúnan ese 25%. Que alguien firme un aviso como «presidente» o «administrador» no basta por sí solo: pregunte quién convoca y cuántas casas lo respaldan. Es nuestra lectura de la escritura; confírmela con su abogado.
 
 ## Cómo funciona una asamblea
 
@@ -25,6 +29,7 @@ draft: false
 
 ## Preguntas que conviene hacer antes de votar
 
+- ¿Quién convoca esta asamblea, y cuántas casas la respaldan? Pídalo por escrito.
 - ¿Quiénes estarán en el consejo, y qué han hecho por esta comunidad?
 - ¿De cuánto será la cuota? Pida verla por escrito.
 - ¿Qué paga la cuota?
